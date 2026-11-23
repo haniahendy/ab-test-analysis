@@ -19,4 +19,4 @@ The z value was also checked by hand in the test.
 Normal approximation (not for tiny counts), fixed-horizon test only (peeking inflates false positives), no multiple-testing correction, no sequential or Bayesian methods.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
